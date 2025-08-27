@@ -22,14 +22,6 @@ Built with: Next.js 14 App Router • Clerk Auth • Drizzle ORM • Neon Server
 	<img src="public/logo_v.png" alt="Vacant Vectors" width="96" />
 	<h1>Vacant Vectors – AI Mock Interview Platform</h1>
 	<p><strong>Generate role‑specific interview questions with Gemini, record voice answers, and get instant AI ratings & actionable feedback.</strong></p>
-	<p>
-		<a href="https://nextjs.org">![Next.js](https://img.shields.io/badge/Next.js-14-black)</a>
-		<a href="https://clerk.com">![Clerk](https://img.shields.io/badge/Auth-Clerk-purple)</a>
-		<a href="https://orm.drizzle.team">![Drizzle ORM](https://img.shields.io/badge/ORM-Drizzle-00c2ff)</a>
-		<a href="https://neon.tech">![Neon](https://img.shields.io/badge/DB-Neon%20Serverless-16c47f)</a>
-		<a href="https://ai.google.dev">![Gemini](https://img.shields.io/badge/AI-Gemini-4285F4)</a>
-		<a href="#license">![License](https://img.shields.io/badge/License-Proprietary-red)</a>
-	</p>
 </div>
 
 ---
@@ -342,11 +334,6 @@ drizzle.config.js      # Drizzle configuration
 3. Create branch `feat/your-feature`.
 4. Implement + add/update docs/tests.
 5. Open PR with context, screenshots for UI.
-
----
-
-## License
-Proprietary – All rights reserved (replace with MIT / Apache-2.0 if open sourcing).
 
 ---
 
